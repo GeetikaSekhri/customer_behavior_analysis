@@ -23,8 +23,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 **🛠️ How to Use This Project**
 ---
 
-**1. Data Source**
-Excel dataset link: https://raw.githubusercontent.com/GeetikaSekhri/customer_behavior_analysis/refs/heads/main/customer_shopping_behavior.csv
+**1. Dataset**
+
+csv dataset: https://raw.githubusercontent.com/GeetikaSekhri/customer_behavior_analysis/refs/heads/main/customer_shopping_behavior.csv
 
 **2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
